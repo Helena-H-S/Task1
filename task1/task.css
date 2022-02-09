@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&family=Zen+Kurenaido&display=swap');
+
+body {
+    background-color: rgb(185, 225, 241);
+}
+
+.heading {
+    text-align: center;
+    color: rgb(41, 126, 62);
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Quintessential', cursive;
+}
+
+ul,ol,dl,p{
+    text-align: center;
+    color: rgb(9, 105, 22);
+    font-size: 1.5rem;
+    font-family: 'Quintessential', cursive;
+}
+
+.table, th, td {
+    text-align: center;
+    color: rgb(9, 105, 22);
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-align: center;
+    display: block
+}
+
+.footer {
+    color: rgb(112, 9, 207);
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
